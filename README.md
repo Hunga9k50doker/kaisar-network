@@ -21,15 +21,15 @@ Transform your compute power into real earnings
 - `tokens.txt`: Stores access_tokens each line 1 account.
 - `id.txt`: Stores Extension IDs each line 1 account.
 - `proxy.txt`: stores Proxy url format `http://user:pass@ip:port` each line 1 proxy.
-- **if you register using cli, file above auto filled, just fill `email.txt` with your email.**
-- `emails.txt`: Store email account 1 line 1 account.
+- **if you register using cli, file above auto filled, just fill `data.txt` with your email|password.**
+- `data.txt`: Store email|password account 1 line 1 account.
 
 ## Usage
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hunga9k50doker/kaisar-network.git
-   cd kaisar-bot
+   cd kaisar-network
    ```
 2. install dependencies:
    ```bash

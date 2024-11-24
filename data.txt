@@ -1,0 +1,2 @@
+email_01@gmail.com|pass1
+email_02@gmail.com|pass2
